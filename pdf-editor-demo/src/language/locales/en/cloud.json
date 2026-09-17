@@ -1,0 +1,18 @@
+{
+    "convert": {
+        "allTools": "All Tools",
+        "convertFrom": "Convert from",
+        "convertTo": "Convert to",
+        "organize": "Organize PDF",
+        "protect": "Protect PDF",
+        "pdf2word": "PDF to Word",
+        "pdf2wordDes": "Convert PDF into editable Word documents for free.",
+        "pdf2excel": "PDF to Excel",
+        "pdf2Ppt": "PDF to PPT",
+        "pdf2PptDes": "Fast convert PDF to editable PPT​ without changing layout.",
+        "pdf2img": "PDF to Image",
+        "pdf2imgDes": "Easily convert PDF to image/jpg without losing quality.",
+        "pdf2text": "PDF to Text",
+        "pdf2textDes": "Free & easy PDF to editable Text converter."
+    }
+}

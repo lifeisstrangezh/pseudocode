@@ -1,0 +1,11 @@
+{
+    "name": "i18n-sdk",
+    "version": "1.0.0",
+    "scripts": {
+        "build": "rslib build"
+    },
+    "main": "dist/i18nSdk.js",
+    "devDependencies": {
+        "@rslib/core": "~0.10.4"
+    }
+}
