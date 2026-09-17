@@ -180,7 +180,7 @@ sequenceDiagram
         W-->>RE: { opened }
     end
     RE-->>VC: Promise<boolean>
-    VC->>VC: useWorker = available && ok; ready.value = true
+    VC->>VC: useWorker = available && ok；ready.value = true
     V->>VC: requestBitmap(page, scale)
     VC->>BC: peek/get `${page}@${scale}`
     alt 缓存命中
